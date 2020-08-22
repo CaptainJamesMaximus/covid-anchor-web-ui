@@ -1,0 +1,30 @@
+{
+  "name": "covid-anchor",
+  "version": "1.0.0",
+  "description": "A covid recovery tracker",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainJamesMaximus/covid-tracker.git"
+  },
+  "keywords": [
+    "covid"
+  ],
+  "author": "Captain James Maximus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptainJamesMaximus/covid-tracker/issues"
+  },
+  "homepage": "https://github.com/CaptainJamesMaximus/covid-tracker#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
